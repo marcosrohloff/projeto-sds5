@@ -25,11 +25,6 @@ const DonutChart = () => {
     }, []);
 
 
-
-    const mockData = {
-
-    }
-
     const options = {
         legend: {
             show: true
